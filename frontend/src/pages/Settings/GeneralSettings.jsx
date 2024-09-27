@@ -1,4 +1,4 @@
-import useLanguage from '@/locale/useTranslation';
+import useLanguage from '@/locale/useLanguage';
 
 import GeneralSettingsModule from '@/modules/SettingModule/GeneralSettingsModule';
 
