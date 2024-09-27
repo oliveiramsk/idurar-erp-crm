@@ -2,7 +2,7 @@ import { useDispatch, useSelector } from 'react-redux';
 import { Input, Form, Select, Switch } from 'antd';
 import { CloseOutlined, CheckOutlined } from '@ant-design/icons';
 
-import languages from '@/locale/translation';
+import languages from '@/locale/translation/translation';
 import useLanguage from '@/locale/useLanguage';
 import { translateAction } from '@/redux/translate/actions';
 import { countryList } from '@/utils/countryList';
